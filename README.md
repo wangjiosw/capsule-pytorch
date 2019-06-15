@@ -4,7 +4,7 @@ A [Capsule](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.p
 
 # result
 
-best accuracy in test data:99.80%
+(routing:3,Reconstruction:yes) accuracy : 99.24%
 <br>
 <img src=img/result1.png>
 ***
